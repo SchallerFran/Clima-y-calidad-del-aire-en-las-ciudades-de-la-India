@@ -14,13 +14,18 @@ El proyecto combina análisis en Python, consultas en SQL y una visualización i
 CLIMA-Y-CALIDAD-DEL-AIRE-EN-LAS-CIUDADES-DE-LA-INDIA
 │   README.md
 │
-├── data
-│   ├── processed
-│   └── raw
-│       └── indian_weather_data.csv
+├───data
+│   ├───processed
+│   │       indian_weather_data.csv
+│   │
+│   └───raw
+│           indian_weather_data.csv
 │
-└── src
-    └── EDA.ipynb
+└───src
+    │   EDA.ipynb
+    │
+    └───Dashboard
+            Argos Palette.json
 ```
 
 * **data/raw**: datos originales sin procesar.
