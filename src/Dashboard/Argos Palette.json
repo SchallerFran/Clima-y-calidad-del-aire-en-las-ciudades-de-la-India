@@ -1,0 +1,19 @@
+{
+    "name": "Argos Palette",
+    "dataColors": [
+      "#FF5722",
+      "#ff8a50",
+      "#4CAF50",
+      "#005100",
+      "#fff3b0",
+      "#333333",
+      "#5c5c5c",
+      "#c2c2c2",
+      "#ebebeb",
+      "#F5F5F5"
+    ],
+    "background": "#F5F5F5",
+    "foreground": "#333333",
+    "tableAccent": "#FF5722"
+  }
+  
