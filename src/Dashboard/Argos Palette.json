@@ -1,19 +1,17 @@
 {
-    "name": "Argos Palette",
-    "dataColors": [
-      "#FF5722",
-      "#ff8a50",
-      "#4CAF50",
-      "#005100",
-      "#fff3b0",
-      "#333333",
-      "#5c5c5c",
-      "#c2c2c2",
-      "#ebebeb",
-      "#F5F5F5"
-    ],
-    "background": "#F5F5F5",
-    "foreground": "#333333",
-    "tableAccent": "#FF5722"
-  }
-  
+  "name": "India Flag Theme",
+  "dataColors": [
+    "#FF9933",
+    "#FFFFFF",
+    "#138808",
+    "#000080",
+    "#F4B183",
+    "#7FB77E",
+    "#2F5597",
+    "#C55A11",
+    "#548235"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#FF9933"
+}
